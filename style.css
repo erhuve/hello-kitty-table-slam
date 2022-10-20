@@ -1,0 +1,22 @@
+/* img {
+    width: 500px;
+    height: 500px;
+} */
+
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#face {
+    position: relative;
+    width: 500px;
+    height: 500px;
+}
+
+#paws {
+    position: absolute;
+    width: 500px;
+    left: 0;
+}
